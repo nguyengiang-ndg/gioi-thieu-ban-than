@@ -1,8 +1,7 @@
 # gioi-thieu-ban-than
 # tôi là Nguyễn Đan Giang
-mssv 25S1020025
 # ảnh đại diện
-![alt text](DSC06516-1.JPG)
+![Ảnh đại diện của Giang](./anhdaidien/DSC06516.JPG)
 Xin chào! Tôi là sinh viên chuyên ngành Sư phạm Tin học tại Trường Đại học Sư phạm, Đại học Huế. Hiện tại, ngoài thời gian học thuật tập trung vào lập trình và cấu trúc dữ liệu, tôi cũng đang làm gia sư bán thời gian ngay tại Huế.
 
 ## Sở thích cá nhân
@@ -14,7 +13,6 @@ Xin chào! Tôi là sinh viên chuyên ngành Sư phạm Tin học tại Trườ
 ## Thông tin liên hệ
 * **Email:** [nguyendangiang29032007@gmail.com](mailto:nguyendangiang29032007@gmail.com)
 * **Facebook:** [https://www.facebook.com/nguyen.giang.432963/]
-
 > "Học, học nữa, học mãi." - V.I. Lenin
 
 
