@@ -1,7 +1,7 @@
 # gioi-thieu-ban-than
 # tôi là Nguyễn Đan Giang
 # ảnh đại diện
-![Ảnh đại diện của Giang](./anhdaidien/DSC06516.JPG)
+![Ảnh đại diện của Giang](DSC06516-1.JPG)
 Xin chào! Tôi là sinh viên chuyên ngành Sư phạm Tin học tại Trường Đại học Sư phạm, Đại học Huế. Hiện tại, ngoài thời gian học thuật tập trung vào lập trình và cấu trúc dữ liệu, tôi cũng đang làm gia sư bán thời gian ngay tại Huế.
 
 ## Sở thích cá nhân
