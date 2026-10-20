@@ -13,7 +13,7 @@ Xin chào! Tôi là sinh viên chuyên ngành Sư phạm Tin học tại Trườ
 
 ## Thông tin liên hệ
 * **Email:** [nguyendangiang29032007@gmail.com](mailto:nguyendangiang29032007@gmail.com)
-* **Facebook:** [Facebook cá nhân của tôi](thay_link_facebook_cua_ban_vao_day)
+* **Facebook:** [https://www.facebook.com/nguyen.giang.432963/]
 
 > "Học, học nữa, học mãi." - V.I. Lenin
 
